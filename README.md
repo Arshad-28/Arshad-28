@@ -1,154 +1,206 @@
 <div align="center">
 
-<!-- ANIMATED HERO HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:1e293b,100:2563eb&height=220&section=header&text=MOHAMMED%20ARSHAD&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=twinkling" width="100%" alt="Mohammed Arshad Header Banner"/>
+<img src="assets/GitHub_Banner.png" alt="Mohammed Arshad Banner" width="100%" />
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Arshad-28&label=Profile%20Views&color=0e75b6&style=flat-square)
+
+# Mohammed Arshad
+
+**Aspiring Software Development Engineer · Java Developer · CSE Undergraduate**
+
+*I’m focused on building practical software, strengthening my backend development skills, and turning what I learn into useful projects.*
 
 <br/>
 
-### ⚡ ASPIRING SOFTWARE DEVELOPMENT ENGINEER
-**Java  •  Spring Boot  •  REST APIs  •  SQL & Databases  •  Backend Systems**
+[![GitHub](https://img.shields.io/badge/GitHub-Arshad--28-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arshad-28)
+<!-- Add your verified LinkedIn and email links when ready. -->
 
 <br/>
+<br/>
 
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE%20BUILDER-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-&nbsp;&nbsp;
-[![Focus](https://img.shields.io/badge/FOCUS-BACKEND%20ENGINEERING-1e293b?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/your-username)
+<img src="assets/GitHub_GIF.gif" width="100%" alt="GitHub GIF" />
 
 </div>
 
-<br/>
+---
+
+## About Me
+
+I am a **Computer Science and Engineering undergraduate at Kalpataru Institute of Technology, Tiptur**, affiliated with **Visvesvaraya Technological University (VTU)**. I am working toward becoming a software developer, with a current focus on **Java, backend development, REST APIs, databases, and building end-to-end applications**.
+
+I enjoy learning by building projects, improving my problem-solving skills, and understanding how real software systems are designed and developed.
+
+```text
+Role        Aspiring Software Development Engineer / Java Developer
+Education   B.E. in Computer Science and Engineering — KIT, Tiptur (VTU)
+Experience  SDE Intern at Algorithm365
+Focus       Core Java, Spring Boot, REST APIs, SQL, and backend development
+GitHub      Arshad-28
+```
 
 ---
 
-## WHO IS ARSHAD?
+## Skills
 
-Hello! I am **Mohammed Arshad**, an aspiring **Software Development Engineer (SDE)** dedicated to building robust backend systems, high-performance web APIs, and structured database architectures.
+**Languages**
 
-Driven by a strong curiosity for how software operates under the hood, I focus heavily on core computer science fundamentals, Object-Oriented design, and backend engineering principles. I take pride in transforming complex software requirements into clean, practical, and maintainable code.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<br/>
+**Frontend**
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎯 Core Focus Areas</h4>
-      <ul>
-        <li><b>Primary Language:</b> Java (OOP, Logic & Multithreading)</li>
-        <li><b>Frameworks:</b> Spring Boot & Enterprise REST APIs</li>
-        <li><b>Data Layer:</b> SQL, MySQL & Relational Database Design</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💡 Engineering Philosophy</h4>
-      <ul>
-        <li>Writing clean, maintainable, self-documenting code</li>
-        <li>Understanding low-level execution and system efficiency</li>
-        <li>Continuous learning, systematic debugging & modular design</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<br/>
+**Backend and Databases**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
+**Data and Security**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-167D9A?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-263238?style=flat-square)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 ---
 
-## 🛠️ TECHNICAL STACK
+## By the Numbers
 
 <div align="center">
 
-### 💻 Languages & Core
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white)
-
-<br/>
-
-### ⚙️ Backend & Databases
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0055E5?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Databases](https://img.shields.io/badge/Relational_Databases-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br/>
-
-### 🛠️ Developer Tools & Web
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- Add verified counts here when you want to show current metrics. -->
+| Metric | Details |
+|:---:|:---:|
+| GitHub | [Arshad-28](https://github.com/Arshad-28) |
+| Current focus | Java and backend development |
+| Project work | JVM Crew and Multi-Cloud Threat & Anomaly Detection |
 
 </div>
 
-<br/>
+---
+
+## Projects
+
+<!-- Update repository links below with the actual repository URLs if their names differ. -->
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| **Multi-Cloud Threat & Anomaly Detection using Swarm Intelligence** | Final-year project concept for monitoring simulated AWS, Azure, and GCP nodes, collecting system telemetry, identifying anomalous activity, and presenting alerts and metrics through a dashboard. | Python, ML, Flask/Streamlit, PostgreSQL | [GitHub](https://github.com/Arshad-28) |
+| **JVM Crew** | A team workspace for a small group of aspiring software developers, with Kanban tasks, homework, curriculum, standups, and team progress features. | React, TypeScript, Spring Boot, Java 21, Spring Data JPA, PostgreSQL, Flyway | [GitHub](https://github.com/Arshad-28) |
 
 ---
 
-## 🏗️ WHAT I BUILD
+## Experience
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☕ Java Applications</h3>
-      <p>Object-oriented software built with clean architecture, robust OOP principles, modular design patterns, and efficient thread management.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Backend Systems</h3>
-      <p>Server-side applications and microservices engineered for high reliability, data throughput, and maintainable enterprise architecture.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗄️ Database-Driven Applications</h3>
-      <p>Structured relational database solutions utilizing normalized schemas, complex SQL queries, and performance-optimized indexing.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔌 RESTful APIs</h3>
-      <p>Scalable HTTP web services designed with clear contract interfaces, proper status handling, and secure data payload transfer.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💡 Algorithmic Problem Solving</h3>
-      <p>Custom Data Structure and Algorithm implementations tackling complex computational logic and optimal execution times.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📦 Practical Software Tools</h3>
-      <p>Real-world applications and developer utilities designed to address tangible domain problems and streamline technical workflows.</p>
-    </td>
-  </tr>
-</table>
+**SDE Intern — Algorithm365**
 
-<br/>
+Working on software development skills and practical programming tasks as part of an SDE internship.
 
 ---
 
-## 📂 FEATURED WORK
+## Open Source
 
-### 🛡️ Featured Architecture: Multi-Cloud Threat & Anomaly Detection
+I’m continuing to build my development portfolio and improve my projects. This section can be updated with verified public contributions and merged pull requests as they happen.
 
-<table width="100%">
-  <tr>
-    <td>
-      <b>🎯 Purpose & Overview</b><br/>
-      Designed to ingest, aggregate, and analyze telemetry streams across multi-cloud environments to identify anomalous events and potential security threats.
-      <br/><br/>
-      <b>⚙️ Technical Direction</b><br/>
-      Focuses on distributed log processing, pattern detection logic, and real-time security event classification.
-      <br/><br/>
-      <b>💡 Why It Matters</b><br/>
-      Modern enterprise applications operate across heterogeneous cloud infrastructures. Centralizing anomaly detection enables proactive visibility, safeguarding mission-critical cloud assets.
-    </td>
-  </tr>
-</table>
+---
+
+## Achievements
+
+| Area | Details |
+|---|---|
+| Project development | Building a multi-cloud threat and anomaly detection project for final-year work |
+| Team collaboration | Developing JVM Crew, a team workspace project |
+| Technical learning | Practicing Java fundamentals, arrays, loops, methods, and data structures |
+
+---
+
+## Certifications
+
+| Certification | Issuer |
+|---|---|
+| CCNA 1, CCNA 2, CCNA 3 | Cisco Networking Academy |
+| Networking Basics | Cisco Networking Academy |
+| Cybersecurity Essentials | Cisco Networking Academy |
+| CyberOps Associate | Cisco Networking Academy |
+| Introduction to Modern AI | Cisco Networking Academy |
+| Python Essentials 1 and 2 | Cisco Networking Academy |
+| C++ Essentials 1 | Cisco Networking Academy |
+
+---
+
+## Competitive Programming
+
+I am actively practicing programming fundamentals and interview-style problems while strengthening my Java skills.
+
+| Focus Area | Current practice |
+|:---:|---|
+| Java | Conditions, loops, methods, arrays, strings, and problem-solving |
+| Data structures | Linked lists and core data-structure concepts |
+| Interview preparation | Logic building, tracing code, and writing clean solutions |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arshad-28&show_icons=true&theme=github_dark&hide_border=true)
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad-28&layout=compact&theme=github_dark&hide_border=true)
+<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Arshad-28&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+## Timeline
+
+### Current
+
+- **Internship:** SDE Intern at Algorithm365
+- **Learning:** Core Java, object-oriented programming, problem-solving, and backend development
+- **Project:** Developing JVM Crew with React, Spring Boot, and PostgreSQL
+- **Final-year project:** Multi-Cloud Threat & Anomaly Detection using Swarm Intelligence
+
+### Technical Focus
+
+- Strengthening Java fundamentals and interview problem-solving
+- Building REST APIs and learning backend application architecture
+- Working with relational databases, including MySQL and PostgreSQL
+- Improving Git/GitHub workflows and project documentation
+
+---
+
+<div align="center">
+
+**Open to learning opportunities and software development roles.**
+
+[GitHub](https://github.com/Arshad-28)
 
 <br/>
+<br/>
 
-```text
-┌────────────────────────────────┐        ┌────────────────────────────────┐        ┌────────────────────────────────┐
-│     Multi-Cloud Telemetry      │ ─────► │   Anomaly Detection Engine     │ ─────► │  Alerts & Threat Intelligence  │
-│  (AWS / Azure / Cloud Logs)    │        │  (Log Processing & Analytics)  │        │   (Real-time Incident Alerts)  │
-└────────────────────────────────┘        └────────────────────────────────┘        └────────────────────────────────┘
+<img src="assets/Github_Footer.gif" alt="Footer" width="100%" />
+
+</div>
