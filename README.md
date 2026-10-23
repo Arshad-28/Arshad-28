@@ -15,9 +15,9 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Arshad--28-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arshad-28)
-<!-- Add your verified LinkedIn and email links when ready. -->
-
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-COMING_SOON-555555?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Arshad28)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshadarshhh27@gmail.com)
 <br/>
 <br/>
 
@@ -48,7 +48,6 @@ GitHub      Arshad-28
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -73,7 +72,6 @@ GitHub      Arshad-28
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-167D9A?style=flat-square)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-263238?style=flat-square)
 
 **Tools**
@@ -82,8 +80,6 @@ GitHub      Arshad-28
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 ---
 
@@ -116,7 +112,8 @@ GitHub      Arshad-28
 
 **SDE Intern — Algorithm365**
 
-Working on software development skills and practical programming tasks as part of an SDE internship.
+- Practicing Java and problem-solving through hands-on coding tasks.
+- Strengthening programming, debugging, and software development skills.
 
 ---
 
@@ -130,9 +127,10 @@ I’m continuing to build my development portfolio and improve my projects. This
 
 | Area | Details |
 |---|---|
-| Project development | Building a multi-cloud threat and anomaly detection project for final-year work |
-| Team collaboration | Developing JVM Crew, a team workspace project |
-| Technical learning | Practicing Java fundamentals, arrays, loops, methods, and data structures |
+| Hackathons | Participating in national-level and state-level hackathons |
+| Inter-Collegiate Events | Engaging in inter-collegiate hackathons and technical competitions |
+| Project Development | Building real-world projects focused on cloud security and team collaboration |
+| Technical Growth | Continuously improving Java, problem-solving, and software development skills |
 
 ---
 
