@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/GitHub_Banner.png" alt="Mohammed Arshad Banner" width="100%" />
+<img src="C:\Users\Hp\Downloads\GitHub_Banner.png" alt="Mohammed Arshad Banner" width="100%" />
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Arshad-28&label=Profile%20Views&color=0e75b6&style=flat-square)
