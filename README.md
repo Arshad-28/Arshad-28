@@ -4,9 +4,6 @@
      alt="Mohammed Arshad Banner"
      width="100%" />
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Arshad-28&label=Profile%20Views&color=0e75b6&style=flat-square)
-
 # Mohammed Arshad
 
 **Aspiring Software Development Engineer · Java Developer · CSE Undergraduate**
